@@ -1,4 +1,4 @@
 # halloween-email-template
 
-Created HTML Email template using HTML/CSS.
-Tested with Litmus.
+Created responsive HTML Email template using HTML tables and css.
+Template is tested with Litmus.
